@@ -1,0 +1,1 @@
+"A string with an empty \n line"
